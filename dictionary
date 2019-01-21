@@ -1,0 +1,138 @@
+package dictionary;
+public class dictionary {
+	public static void main(String[] args) {
+
+		Linklist app = new Linklist();
+	//A
+	app.insertWord("Abandon","ละทิ้ง","N");
+	app.insertWord("Ability","ความสามารถ","N");
+	app.insertWord("Ant","มด","N");
+
+	//B
+	app.insertWord("Bat","ค้างคาว","N");
+	app.insertWord("Button","ถั่ว","N");
+	app.insertWord("Blue","สีฟ้า","N");
+
+	//C
+	app.insertWord("Cafe","ค้าเฟ่","N");
+	app.insertWord("Calculate","เครื่องคิดเลข","V");
+	app.insertWord("Camera","กล้อง","N");
+
+	//D
+	app.insertWord("Daisy","ดอกเดซี่","N");
+	app.insertWord("Danger","อันตราย","N");
+	app.insertWord("Data","ข้อมูล","N");
+
+	//E
+	app.insertWord("Ear","หู","N");
+	app.insertWord("Earth","โลก","N");
+	app.insertWord("East","ตะวันออก","N");
+
+	//F
+	app.insertWord("Fable","นิทาน","N");
+	app.insertWord("Face","หน้า","N");
+	app.insertWord("Fact","ความจริง","N");
+
+	//G
+	app.insertWord("Galaxy","ช้างเผือก","N");
+	app.insertWord("Gem","อัญมณี","N");
+	app.insertWord("Gift","ของขวัญ","N");
+
+	//H
+	app.insertWord("Habit","นิสัย","N");
+	app.insertWord("Harbour","ท่าเรือ","N");
+	app.insertWord("Head","หัว","N");
+
+	//I
+	app.insertWord("Idea","ความคิด","N");
+	app.insertWord("illusion","ภาพมายา","N");
+	app.insertWord("Image","รูปภาพ","N");
+
+	//J
+	app.insertWord("Jackfruit","ขนุน","N");
+	app.insertWord("Jade","หยก","N");
+	app.insertWord("Jigsaw","เลื่อยเล็ก","N");
+
+	//K
+	  app.insertWord("Karate","คาราเต้","N");
+	  app.insertWord("Key","กุญแจ","N");
+	  app.insertWord("Kind","ชนิด","N");
+
+	//L
+	  app.insertWord("Labyrinth","เขาวงกต","N");
+	  app.insertWord("Lamp","โคมไฟ","N");
+	  app.insertWord("Language","ภาษา","N");
+
+	//M
+	  app.insertWord("Magarine","มาการีน","N");
+	  app.insertWord("Magazine","นิตยสาร","N");
+	  app.insertWord("Mandarin","ภาษาจีนกลาง","N");
+
+	//N
+	  app.insertWord("Nail","เล็บ","N");
+	  app.insertWord("Nation","ประเทศชาติ","N");
+	  app.insertWord("Needle","เข็ม","N");
+
+	//O
+	  app.insertWord("Ocean","มหาสมุทร","N");
+	  app.insertWord("Oil","น้ำมัน","N");
+	  app.insertWord("Olive","มะกอก","N");
+
+	//P
+	  app.insertWord("Page","หน้า","N");
+	  app.insertWord("Pain","ความเจ็บปวด","N");
+	  app.insertWord("Paint","สี","N");
+
+	//Q
+	  app.insertWord("Quality","คุณภาพ","N");
+	  app.insertWord("Quantity","ปริมาณ","N");
+	  app.insertWord("Quarter","ย่าน","N");
+
+	//R
+	  app.insertWord("Rabbit","กระต่าย","N");
+	  app.insertWord("Radio","วิทยุ","N");
+	  app.insertWord("Run","วิ่ง","N");
+
+	//S
+	  app.insertWord("Saint","นักบุญ","N");
+	  app.insertWord("Salad","สลัด","N");
+	  app.insertWord("Sale","ขาย","N");
+
+	//T
+	  app.insertWord("Table","ตาราง","N");
+	  app.insertWord("Tail","หาง","N");
+	  app.insertWord("Tailor","ช่างตัดเสื้อ","N");
+
+	//U
+	  app.insertWord("Umbrella","ร่ม","N");
+	  app.insertWord("Underbrush","พุ่มไม้","N");
+	  app.insertWord("Uncle","ลุง","N");
+
+	//V
+	  app.insertWord("Vacation","วันหยุด","N");
+	  app.insertWord("Vaccine","วัคซีน","N");
+	  app.insertWord("Value","ราคา","N");
+
+	//W
+	  app.insertWord("Waistcoat","เสื้อกั๊ก","N");
+	  app.insertWord("Wall","กำแพง","N");
+	  app.insertWord("Wares","สินค้า","N");
+
+	//X
+	  app.insertWord("Xerox","สำเนาซิรอกส","N");
+	  app.insertWord("Xray","รังสีเอกซ์","N");
+	  app.insertWord("Xylograph","แม่พิมพ์ไม้","N");
+
+	//Y
+	  app.insertWord("Year","ปี","N");
+	  app.insertWord("Yellow","สีเหลือง","N");
+	  app.insertWord("Youth","หนุ่ม","N");
+
+	//Z
+	  app.insertWord("Zero","ศูนย์","N");
+	  app.insertWord("Zip","ซิป","N");
+	  app.insertWord("Zone","เขต","N");
+	  app.Menu();
+
+	}
+	}
